@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a = 0;
+    int b = 0;
+    char text = 0;
+    
+    cout<<"type a number: "; //Type a number and then press ENTER
+    cin>> a;
+    cout << "Your number is: " << a; // Show your number in your screen
+
+    return 0;
+}
