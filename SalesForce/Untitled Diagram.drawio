@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T03:25:34.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="zYBP4UkCVSva_3iOvFvX" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T03:28:07.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="pkukHgg-NjrCVN-l3A5P" version="16.5.6" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -308,6 +308,20 @@
         </mxCell>
         <mxCell id="mwkYcu_TlAt9jS-CwTVa-204" value="&lt;font color=&quot;#ffffff&quot;&gt;They have a wide variety of products that privdes services to 15 different industries around the globe&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=#23445D;fontSize=16;fontColor=#000000;strokeColor=#10739E;fillColor=#23445D;" vertex="1" parent="1">
           <mxGeometry x="2390" y="435.5" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mwkYcu_TlAt9jS-CwTVa-205" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#FFFFFF;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mwkYcu_TlAt9jS-CwTVa-201">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2010" y="810" as="sourcePoint" />
+            <mxPoint x="2036" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mwkYcu_TlAt9jS-CwTVa-206" value="&lt;font color=&quot;#000000&quot;&gt;They have 4 values&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="mwkYcu_TlAt9jS-CwTVa-205">
+          <mxGeometry x="-0.3337" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mwkYcu_TlAt9jS-CwTVa-207" value="&lt;font color=&quot;#ffffff&quot;&gt;Trust, customer success, innovation and equality&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=#23445D;fontSize=16;fontColor=#000000;strokeColor=#10739E;fillColor=#23445D;" vertex="1" parent="1">
+          <mxGeometry x="1944.38" y="785.5" width="183.75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
